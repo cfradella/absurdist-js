@@ -1,5 +1,5 @@
-document.write(~~!!this,"\025",(btoa("l").substring(0,2)+ +`
+document.write(~~!!this,"\025",(btoa`l`.substring(0,2)+ +`
 
 What is the perfect number of fruit?
 
-`+(+void(/huh?/)+"")[1]).toLowerCase());
+`+(+void(/huh?/)+"")[+true]).toLowerCase());
