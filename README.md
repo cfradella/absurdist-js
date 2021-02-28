@@ -1,6 +1,6 @@
 # absurdist.js
 
-JavaScript is a truly inane language that is ripe with quirks and ideosyncracies. This single file is an encapsulated example of this.
+JavaScript is an inane language that is ripe with quirks and idiosyncrasies. This single file is an encapsulated example of this.
 
 ### Run the following code in your browser console:
 
