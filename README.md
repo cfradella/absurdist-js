@@ -5,7 +5,7 @@ JavaScript is an inane language that is ripe with quirks and idiosyncrasies. Thi
 ### Run the following code in your browser console:
 
 ```
-document.write(~~!!this,"\025",(btoa`l`.substring(0,2)+ +`
+document.write(~~!!this,"\025",(btoa`l`.substring(+false,1^3)+ +`
 
 What is the perfect number of fruit?
 
